@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cifp SYSTEM "cifp.dtd">
+<cifp>
+    <alumne id="1">
+        <nom>Javier</nom>
+        <llinatges>Martínez Díaz</llinatges>
+        <data_matricula>2025-09-01</data_matricula>
+        <curs>DAM</curs>
+    </alumne>
+    <professor id="101">
+        <nom>Jaime Juan </nom>
+        <llinatges>Pericas Oliver</llinatges>
+        <data_incorporació>2015-01-01</data_incorporació>
+        <departament>Informàtica</departament>
+        <assignatura id_assignatura="501">
+            <nom_assignatura cicle="DAM">Programació</nom_assignatura>
+        </assignatura>
+    </professor>
+</cifp>
