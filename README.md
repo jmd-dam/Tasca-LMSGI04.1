@@ -87,3 +87,5 @@ A partir d'un document HTML sobre notícies de motor, cal generar formats de sub
 * **Entrega:** S'han d'adjuntar els fitxers de codi generats i el document d'explicacions amb les captures de les validacions.
 
 ---
+
+
